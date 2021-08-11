@@ -1,0 +1,14 @@
+name: aligned-umap
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - pip
+  - matplotlib
+  - numpy
+  - scipy
+  - jupyter
+  - pandas
+  - scikit-learn
+  - umap-learn
+  - plotly
